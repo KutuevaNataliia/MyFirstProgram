@@ -133,7 +133,7 @@ int main()
     output << place;
     output.close();
 
-    std::cout << "It is a very stupid solution\n";
+    std::cout << "It is a very stupid solution, but it works\n";
 
     return 0;
 }
